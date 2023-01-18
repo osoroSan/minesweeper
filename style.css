@@ -1,0 +1,15 @@
+body{
+display:flex;
+justify-content:center;
+margin:0;
+flex-wrap:wrap ;
+background:grey;
+}
+#message{
+width: 100%;
+height:10vh;
+text-align: center;
+display :flex ;
+justify-content :center ;
+align-items:center;
+}
