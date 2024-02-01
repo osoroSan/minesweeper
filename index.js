@@ -1,6 +1,3 @@
-Certainly! Here's the code with added comments:
-
-```javascript
 // Variables for game state
 var crash;
 const boardSize = 400;
@@ -192,6 +189,3 @@ populate = (a, z) => {
 // Create the game board and populate it with mines
 let bond = new board();
 populate(15, bond);
-```
-
-I added comments to explain the purpose of functions, classes, and sections of the code.
