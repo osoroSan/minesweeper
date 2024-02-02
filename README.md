@@ -1,5 +1,7 @@
 # Minesweeper Clone
 
+!(images/mine.png)
+
 Welcome to the Minesweeper Clone repository! This project is a recreation of the classic Minesweeper game using HTML, CSS, and JavaScript.
 
 ## Table of Contents
